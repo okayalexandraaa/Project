@@ -1,0 +1,52 @@
+img {
+    height:200px;
+}
+body {
+      text-align: center;
+      background-image:url(https://coolbackgrounds.io/images/backgrounds/ranger-993af1f3.png);
+    
+}
+h1{
+    font-family: 'Allerta Stencil', sans-serif;
+}
+h1{ 
+    color: #cccccc;
+}
+h2{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: black;
+}
+h3{
+    font-family: 'Source Serif Pro', serif;
+}
+h4{ 
+    font-family: 'Bree Serif', serif;
+}
+h5{
+    font-family: 'Crete Round', serif;
+}
+img{
+    border:solid 10px;
+}
+.singer{
+         text-align: left;
+         color:grey;
+}
+.brown{
+      color:brown;
+      text-align: left;
+      font-weight:bold;
+      }
+.purple{
+        color:purple;
+        text-align:left;
+        list-style-type:square;
+}
+.blue{
+     color:blue;
+     text-align:left;
+     font-style:italic;
+}
+img:hover {
+    filter: opacity(50%);
+    }
